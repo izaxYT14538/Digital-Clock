@@ -1,5 +1,5 @@
 # Digital-Clock
-Una app de Reloj Digital Para Android, también para Windows
+Hay Una app de Reloj Digital Para Android, también deberia de haber para Windows
 
 
 Como se ve la App:
